@@ -49,6 +49,9 @@ advertisement**.
 * Implemented plugin for AppMetrica iOS (v2.8.0) and AppMetrica Android (v2.62).
 * Provided sample.
 
+### Version 1.0.2
+* https://github.com/yandexmobile/metrica-plugin-cordova/issues/29
+
 ## License
 License agreement on use of Yandex AppMetrica is available at [EULA site][LICENSE]
 
